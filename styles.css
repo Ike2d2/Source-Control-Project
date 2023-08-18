@@ -4,10 +4,11 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
+    background-color: #aaa;
 }
 
 p {
     font-size: 60px;
-    color: #f00;
+    color: #0f0;
     font-weight: bold;
 }
